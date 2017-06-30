@@ -1,0 +1,55 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+
+html,body {
+  font-family: "Open Sans";
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.main{
+  height: 100%;
+}
+
+.profile-container{
+  color: rgb(197, 200, 200);
+  background-color: rgb(50, 50, 50);
+  height: 100%
+}
+
+.profile-avatar{
+  height: 40%;
+  background-color: rgb(40, 40, 40);
+}
+.name{
+  font-size: 110%;
+  text-align: center;
+}
+h2.name{
+  font-size: 80%;
+}
+
+.profile-content{
+
+}
+
+.avatar{
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.page-container{
+  background-color: rgb(222, 224, 221);
+  height: 100%;
+}
+
+.logo{
+  font-size: 150%;
+  background-color: rgb(40, 40, 40);
+  border-radius: 50%;
+  display: inline;
+}
+.bio{
+  font-size: 80%;
+}
