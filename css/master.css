@@ -13,13 +13,13 @@ html,body {
 
 .profile-container{
   color: rgb(197, 200, 200);
-  background-color: rgb(50, 50, 50);
+  background-color: rgb(61, 72, 78);
   height: 100%
 }
 
 .profile-avatar{
   height: 40%;
-  background-color: rgb(40, 40, 40);
+  background-color: rgb(40, 49, 54);
 }
 .name{
   font-size: 110%;
@@ -46,7 +46,7 @@ h2.name{
 
 .logo{
   font-size: 150%;
-  background-color: rgb(40, 40, 40);
+  background-color: rgb(40, 49, 54);
   border-radius: 50%;
   display: inline;
 }
